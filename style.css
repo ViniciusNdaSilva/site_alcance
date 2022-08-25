@@ -8,6 +8,8 @@ body {
     background-color: #313233
 }
 
+/* INICIO CARROCEL */
+
 .content {
     height: 520px;
     width: 935px;
@@ -74,10 +76,11 @@ input {
 }
 
 #slide4:checked ~ .s1 {
-    margin-left: -60;
+    margin-left: -60%;
 }
 
 #slide5:checked ~ .s1 {
-    margin-left: -80;
+    margin-left: -80%;
 }
 
+/* FIM CARROCEL */
